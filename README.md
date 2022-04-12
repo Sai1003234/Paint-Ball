@@ -1,1 +1,1 @@
-# Paint-Ball
+# Paint-Ball code only
